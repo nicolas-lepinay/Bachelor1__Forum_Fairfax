@@ -3,7 +3,7 @@
 👉 **What is it?**\
 A [web forum](https://github.com/01-edu/public/tree/master/subjects/forum) built in Golang and SQLite and designed in SCSS.\
 Members of the forum can take a personality test and be sorted into one of the four Local Clubs of Fairfax.\
-Take the test and find out whether you're a Kingsbridge Griphon, a Westside Wildcat, a Columbus Kraken or a Syracus Viper !
+Take the test and find out whether you're a Kingsbridge Griphon, a Westside Wildcat, a Columbus Kraken or a Syracuse Viper !
 
 👉 **How can I test it?**\
 Open the file *main.go* and run the command line **go run main.go** to run the server.\
